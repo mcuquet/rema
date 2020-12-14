@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            ReMA
 #tagline:          'Recerca matemàtica aplicada a l'aula.'
-description:      'Recerca matemàtica aplicada a l'aula.'
+description:      "Recerca matemàtica aplicada a l'aula."
 url:              https://mcuquet.github.io
 baseurl:          '/rema'
                   # the optional subpath of your site, e.g. "/blog"
