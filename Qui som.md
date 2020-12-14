@@ -41,4 +41,4 @@ Recollim els nostres materials aquí:
 
 Els materials s'ofereixen amb la llicència [Creative Commons Reconeixement-NoComercial-CompartirIgual 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca).
 
-El disseny de la web és del tema [Hydeout](https://github.com/fongandrew/hydeout) (amb <a href="{{ "/LICENSE.md" | relative_url }}">llicència MIT</a>).
+El disseny de la web és del tema [Hydeout](https://github.com/fongandrew/hydeout) (amb <a href="{{ "/TEMPLATE_LICENSE.md" | relative_url }}">llicència MIT</a>).
