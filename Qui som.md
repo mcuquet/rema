@@ -36,3 +36,9 @@ Recollim els nostres materials aquí:
 
 - [Curs 2019-2020](https://drive.google.com/drive/folders/1cruqqMdzPqGUwFW1vBXxcRwPSkSsmHpm?usp=sharing)
 - [Curs 2020-2021](https://drive.google.com/drive/folders/1q3T3fL1BSv5I4Jn0p__Ko6lCS3pvt54W?usp=sharing)
+
+## Llicència
+
+Els materials s'ofereixen amb la llicència [Creative Commons Reconeixement-NoComercial-CompartirIgual 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca).
+
+El disseny de la web és del tema [Hydeout](https://github.com/fongandrew/hydeout) (amb <a href="{{ "/LICENSE.md" | relative_url }}">llicència MIT</a>).
