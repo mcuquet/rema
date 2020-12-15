@@ -17,6 +17,7 @@ baseurl:          '/rema'
 author:
   name:           'Grup ReMA'
 #  url:            https://twitter.com/
+  mail:           'rema-grup+managers@xtec.cat'
 
 paginate:         5
 # paginate_path:    '/page:num'
